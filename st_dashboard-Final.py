@@ -28,7 +28,7 @@ page = st.sidebar.selectbox('Select an aspect of the analysis',
 
 ###### Import data ########
 
-df_1 = pd.read_csv('df_rides_trimmed.csv', index_col=0)
+df_1 = pd.read_csv('ride_duration_mini.csv', index_col=0)
 df_daily = pd.read_csv('df_dashboard_ready.csv', index_col=0)
 top20 = pd.read_csv('top20.csv', index_col=0)
 
