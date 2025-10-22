@@ -1,8 +1,7 @@
-plotly
 streamlit
-matplotlib
-numerize
-pillow
 pandas
-keplergl
+plotly
 seaborn
+matplotlib
+Pillow
+numerize
